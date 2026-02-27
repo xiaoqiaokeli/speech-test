@@ -1,0 +1,257 @@
+[
+  {
+    "filename": "01_an.wav",
+    "number": "01",
+    "word": "安"
+  },
+  {
+    "filename": "02_che.wav",
+    "number": "02",
+    "word": "车"
+  },
+  {
+    "filename": "03_dan.wav",
+    "number": "03",
+    "word": "单"
+  },
+  {
+    "filename": "04_di.wav",
+    "number": "04",
+    "word": "低"
+  },
+  {
+    "filename": "05_yi.wav",
+    "number": "05",
+    "word": "意"
+  },
+  {
+    "filename": "06_gong.wav",
+    "number": "06",
+    "word": "工"
+  },
+  {
+    "filename": "07_guo.wav",
+    "number": "07",
+    "word": "国"
+  },
+  {
+    "filename": "08_dong.wav",
+    "number": "08",
+    "word": "东"
+  },
+  {
+    "filename": "09_ji.wav",
+    "number": "09",
+    "word": "极"
+  },
+  {
+    "filename": "10_jia.wav",
+    "number": "10",
+    "word": "家"
+  },
+  {
+    "filename": "11_tiao.wav",
+    "number": "11",
+    "word": "条"
+  },
+  {
+    "filename": "12_de.wav",
+    "number": "12",
+    "word": "得"
+  },
+  {
+    "filename": "13_bang.wav",
+    "number": "13",
+    "word": "帮"
+  },
+  {
+    "filename": "14_feng.wav",
+    "number": "14",
+    "word": "风"
+  },
+  {
+    "filename": "15_he.wav",
+    "number": "15",
+    "word": "合"
+  },
+  {
+    "filename": "16_men.wav",
+    "number": "16",
+    "word": "门"
+  },
+  {
+    "filename": "17_shi.wav",
+    "number": "17",
+    "word": "十"
+  },
+  {
+    "filename": "18_ze.wav",
+    "number": "18",
+    "word": "责"
+  },
+  {
+    "filename": "19_si.wav",
+    "number": "19",
+    "word": "思"
+  },
+  {
+    "filename": "20_zhi.wav",
+    "number": "20",
+    "word": "直"
+  },
+  {
+    "filename": "21_pa.wav",
+    "number": "21",
+    "word": "怕"
+  },
+  {
+    "filename": "22_dian.wav",
+    "number": "22",
+    "word": "点"
+  },
+  {
+    "filename": "23_ba.wav",
+    "number": "23",
+    "word": "把"
+  },
+  {
+    "filename": "24_yan.wav",
+    "number": "24",
+    "word": "眼"
+  },
+  {
+    "filename": "25_hai.wav",
+    "number": "25",
+    "word": "孩"
+  },
+  {
+    "filename": "26_ti.wav",
+    "number": "26",
+    "word": "体"
+  },
+  {
+    "filename": "27_ni.wav",
+    "number": "27",
+    "word": "你"
+  },
+  {
+    "filename": "28_shao.wav",
+    "number": "28",
+    "word": "少"
+  },
+  {
+    "filename": "29_xie.wav",
+    "number": "29",
+    "word": "写"
+  },
+  {
+    "filename": "30_re.wav",
+    "number": "30",
+    "word": "热"
+  },
+  {
+    "filename": "31_zhu.wav",
+    "number": "31",
+    "word": "主"
+  },
+  {
+    "filename": "32_ling.wav",
+    "number": "32",
+    "word": "领"
+  },
+  {
+    "filename": "33_yao.wav",
+    "number": "33",
+    "word": "要"
+  },
+  {
+    "filename": "34_ding.wav",
+    "number": "34",
+    "word": "定"
+  },
+  {
+    "filename": "35_ci.wav",
+    "number": "35",
+    "word": "次"
+  },
+  {
+    "filename": "36_yong.wav",
+    "number": "36",
+    "word": "用"
+  },
+  {
+    "filename": "37_you.wav",
+    "number": "37",
+    "word": "又"
+  },
+  {
+    "filename": "38_du.wav",
+    "number": "38",
+    "word": "度"
+  },
+  {
+    "filename": "39_jin.wav",
+    "number": "39",
+    "word": "紧"
+  },
+  {
+    "filename": "40_wei.wav",
+    "number": "40",
+    "word": "位"
+  },
+  {
+    "filename": "41_le.wav",
+    "number": "41",
+    "word": "乐"
+  },
+  {
+    "filename": "42_qi.wav",
+    "number": "42",
+    "word": "气"
+  },
+  {
+    "filename": "43_qu.wav",
+    "number": "43",
+    "word": "去"
+  },
+  {
+    "filename": "44_she.wav",
+    "number": "44",
+    "word": "设"
+  },
+  {
+    "filename": "45_zhong.wav",
+    "number": "45",
+    "word": "重"
+  },
+  {
+    "filename": "46_zuo.wav",
+    "number": "46",
+    "word": "作"
+  },
+  {
+    "filename": "47_xiang.wav",
+    "number": "47",
+    "word": "相"
+  },
+  {
+    "filename": "48_zai.wav",
+    "number": "48",
+    "word": "在"
+  },
+  {
+    "filename": "49_ke.wav",
+    "number": "49",
+    "word": "科"
+  },
+  {
+    "filename": "50_shu.wav",
+    "number": "50",
+    "word": "树"
+  },
+  {
+    "filename": "title.wav",
+    "number": "00",
+    "word": "标题"
+  }
+]
